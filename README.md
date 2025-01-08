@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hey, I'm Alex!
 
 <!--
 **korok-leaf/korok-leaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am currently a Computer Science student at the University of Waterloo. I am interested in Web Development, Machine Learning and Data Science. 
+
+- 🌱 I’m learning Web Development
+- - 🔭 I’m currently working on watClub
+- 📫 How to reach me: a27qin@uwaterloo.ca
+- ⚡ Fun fact: I enjoy competitive programming and solving algorithmic challenges
+- learn more about me [here](https://alexqin.vercel.app/)
