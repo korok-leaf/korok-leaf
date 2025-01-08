@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I am currently a Computer Science student at the University of Waterloo. I am interested in Web Development, Machine Learning and Data Science. 
 
 - 🌱 I’m learning Web Development
-- - 🔭 I’m currently working on watClub
+- 🔭 I’m currently working on watClub
 - 📫 How to reach me: a27qin@uwaterloo.ca
 - ⚡ Fun fact: I enjoy competitive programming and solving algorithmic challenges
 - learn more about me [here](https://alexqin.vercel.app/)
